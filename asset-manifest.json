@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ajayrawat2001.git/static/css/main.b51aa1ae.css",
-    "main.js": "/ajayrawat2001.git/static/js/main.6cd4d96b.js",
+    "main.js": "/ajayrawat2001.git/static/js/main.82d8c1cd.js",
     "static/js/787.ca7b800f.chunk.js": "/ajayrawat2001.git/static/js/787.ca7b800f.chunk.js",
     "static/media/astronout.png": "/ajayrawat2001.git/static/media/astronout.b42be4cff9123f7fe6b8.png",
     "static/media/about.png": "/ajayrawat2001.git/static/media/about.8cbeb17f96ce038105cc.png",
@@ -9,11 +9,11 @@
     "static/media/pre.svg": "/ajayrawat2001.git/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/ajayrawat2001.git/index.html",
     "main.b51aa1ae.css.map": "/ajayrawat2001.git/static/css/main.b51aa1ae.css.map",
-    "main.6cd4d96b.js.map": "/ajayrawat2001.git/static/js/main.6cd4d96b.js.map",
+    "main.82d8c1cd.js.map": "/ajayrawat2001.git/static/js/main.82d8c1cd.js.map",
     "787.ca7b800f.chunk.js.map": "/ajayrawat2001.git/static/js/787.ca7b800f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b51aa1ae.css",
-    "static/js/main.6cd4d96b.js"
+    "static/js/main.82d8c1cd.js"
   ]
 }
